@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 71cd2a0ce8b99fe449a8e334ae7829a2
-timeCreated: 1485731567
+guid: c744db7ad8d55a6409aceeb0b63b5215
+timeCreated: 1485745884
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
@@ -9,96 +9,124 @@ ModelImporter:
     100002: CampFire
     100004: //RootNode
     100006: ceiling
-    100008: door_left
-    100010: door_right
-    100012: floor
-    100014: hook
-    100016: lever
-    100018: leverFundation
-    100020: pole1
-    100022: pole2
-    100024: pole3
-    100026: rope
-    100028: smallGear
-    100030: stair
-    100032: wall_back
-    100034: wall_front
-    100036: wall_left
-    100038: wall_right
-    100040: woodBoard
-    100042: woodFence
-    100044: zombie1Head
-    100046: zombiePrisoners
+    100008: corridor_ceiling
+    100010: corridor_door_left
+    100012: corridor_door_right
+    100014: corridor_floor
+    100016: corridor_wall_front
+    100018: corridor_wall_left
+    100020: corridor_wall_right
+    100022: door_left
+    100024: door_right
+    100026: floor
+    100028: hook
+    100030: lever
+    100032: leverFundation
+    100034: pole1
+    100036: pole2
+    100038: pole3
+    100040: rope
+    100042: smallGear
+    100044: stair
+    100046: wall_back
+    100048: wall_front
+    100050: wall_left
+    100052: wall_right
+    100054: woodBoard
+    100056: woodFence
+    100058: zombie1Head
+    100060: zombiePrisoners
     400000: bigGear
     400002: CampFire
     400004: //RootNode
     400006: ceiling
-    400008: door_left
-    400010: door_right
-    400012: floor
-    400014: hook
-    400016: lever
-    400018: leverFundation
-    400020: pole1
-    400022: pole2
-    400024: pole3
-    400026: rope
-    400028: smallGear
-    400030: stair
-    400032: wall_back
-    400034: wall_front
-    400036: wall_left
-    400038: wall_right
-    400040: woodBoard
-    400042: woodFence
-    400044: zombie1Head
-    400046: zombiePrisoners
+    400008: corridor_ceiling
+    400010: corridor_door_left
+    400012: corridor_door_right
+    400014: corridor_floor
+    400016: corridor_wall_front
+    400018: corridor_wall_left
+    400020: corridor_wall_right
+    400022: door_left
+    400024: door_right
+    400026: floor
+    400028: hook
+    400030: lever
+    400032: leverFundation
+    400034: pole1
+    400036: pole2
+    400038: pole3
+    400040: rope
+    400042: smallGear
+    400044: stair
+    400046: wall_back
+    400048: wall_front
+    400050: wall_left
+    400052: wall_right
+    400054: woodBoard
+    400056: woodFence
+    400058: zombie1Head
+    400060: zombiePrisoners
     2300000: bigGear
     2300002: CampFire
     2300004: ceiling
-    2300006: door_left
-    2300008: door_right
-    2300010: floor
-    2300012: hook
-    2300014: lever
-    2300016: leverFundation
-    2300018: pole1
-    2300020: pole2
-    2300022: pole3
-    2300024: rope
-    2300026: smallGear
-    2300028: stair
-    2300030: wall_back
-    2300032: wall_front
-    2300034: wall_left
-    2300036: wall_right
-    2300038: woodBoard
-    2300040: woodFence
-    2300042: zombie1Head
-    2300044: zombiePrisoners
+    2300006: corridor_ceiling
+    2300008: corridor_door_left
+    2300010: corridor_door_right
+    2300012: corridor_floor
+    2300014: corridor_wall_front
+    2300016: corridor_wall_left
+    2300018: corridor_wall_right
+    2300020: door_left
+    2300022: door_right
+    2300024: floor
+    2300026: hook
+    2300028: lever
+    2300030: leverFundation
+    2300032: pole1
+    2300034: pole2
+    2300036: pole3
+    2300038: rope
+    2300040: smallGear
+    2300042: stair
+    2300044: wall_back
+    2300046: wall_front
+    2300048: wall_left
+    2300050: wall_right
+    2300052: woodBoard
+    2300054: woodFence
+    2300056: zombie1Head
+    2300058: zombiePrisoners
     3300000: bigGear
     3300002: CampFire
     3300004: ceiling
-    3300006: door_left
-    3300008: door_right
-    3300010: floor
-    3300012: hook
-    3300014: lever
-    3300016: leverFundation
-    3300018: pole1
-    3300020: pole2
-    3300022: pole3
-    3300024: rope
-    3300026: smallGear
-    3300028: stair
-    3300030: wall_back
-    3300032: wall_front
-    3300034: wall_left
-    3300036: wall_right
-    3300038: woodBoard
-    3300040: woodFence
-    3300042: zombie1Head
-    3300044: zombiePrisoners
+    3300006: corridor_ceiling
+    3300008: corridor_door_left
+    3300010: corridor_door_right
+    3300012: corridor_floor
+    3300014: corridor_wall_front
+    3300016: corridor_wall_left
+    3300018: corridor_wall_right
+    3300020: door_left
+    3300022: door_right
+    3300024: floor
+    3300026: hook
+    3300028: lever
+    3300030: leverFundation
+    3300032: pole1
+    3300034: pole2
+    3300036: pole3
+    3300038: rope
+    3300040: smallGear
+    3300042: stair
+    3300044: wall_back
+    3300046: wall_front
+    3300048: wall_left
+    3300050: wall_right
+    3300052: woodBoard
+    3300054: woodFence
+    3300056: zombie1Head
+    3300058: zombiePrisoners
     4300000: CampFire
     4300002: door_right
     4300004: door_left
@@ -122,6 +150,13 @@ ModelImporter:
     4300040: zombiePrisoners
     4300042: rope
     4300044: hook
+    4300046: corridor_wall_right
+    4300048: corridor_wall_left
+    4300050: corridor_floor
+    4300052: corridor_wall_front
+    4300054: corridor_door_right
+    4300056: corridor_door_left
+    4300058: corridor_ceiling
   materials:
     importMaterials: 1
     materialName: 0
