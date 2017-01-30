@@ -117,7 +117,7 @@
  <HintPath>E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
- <HintPath>D:/Documents/NYU Game Design/Platos_Cave/Platos_Cave_GameProject/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ <HintPath>D:/My Documents/My Game Projects/Platos_Cave/Platos_Cave_GameProject/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>E:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
